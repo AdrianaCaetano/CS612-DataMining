@@ -19,11 +19,11 @@ You have been given a data file called “AlzheimerData.xlsx”. It is a matrix 
 
 ## RescaledMatrix
 - Do Rescaling (Standardization) of Matrix3. 
-- The code for Standardization is: 'x_standarization = (x – mean(X)) / (StdDev(X))'
+- The code for Standardization is: **x_standarization = (x – mean(X)) / (StdDev(X))**
 - Print RescaledMatrix
 
 ## NormalizedMatrix 
 - Normalize Matrix3. 
 - The code for normalization is:
-- The code for Standardization is: 'x_Normalization = (x – min(X)) / ((max(X) – min(X)))'
+- The code for Standardization is: **x_Normalization = (x – min(X)) / ((max(X) – min(X)))**
 - Print NormalizedMatrix
