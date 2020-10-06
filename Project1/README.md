@@ -4,14 +4,14 @@
 **ANN: Artificial neural network**
 
 # Complete this project:
--	writing the codes that have not been implemented:
+*Write the codes that have not been implemented:*
   - rescale_date (….)
   - removeInvalidData (…..)
 
--	and run the program with three different machine learning tools.
+*Run the program with three different machine learning tools:*
   - MLR (Multiple Linear Regression)
   - SVM (support Vector Machine)
   - ANN (Artificial Neural Network)
 
--	And
+*And*
   - Make the entire program to be object oriented 
