@@ -5,11 +5,11 @@
 
 # Complete this project:
 -	writing the codes that have not been implemented 
-o	rescale_date (….)
-o	removeInvalidData (…..)
+rescale_date (….)
+removeInvalidData (…..)
 -	and run the program with three different machine learning tools.
-o	MLR (Multiple Linear Regression)
-o	SVM (support Vector Machine)
-o	ANN (Artificial Neural Network)
+MLR (Multiple Linear Regression)
+SVM (support Vector Machine)
+ANN (Artificial Neural Network)
 -	And 
-o	Make the entire program to be object oriented 
+Make the entire program to be object oriented 
