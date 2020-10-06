@@ -1,6 +1,8 @@
 # Project 1: Doing data Modeling using different machine Learning:
   **MLR: Multiple Linear Regression**
+  
   **SVM: Support Vector Machine**
+  
   **ANN: Artificial neural network**
 
 ## Complete this project:
