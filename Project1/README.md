@@ -1,9 +1,9 @@
 # Project 1: Doing data Modeling using different machine Learning:
-**MLR: Multiple Linear Regression**
-**SVM: Support Vector Machine**
-**ANN: Artificial neural network**
+  **MLR: Multiple Linear Regression**
+  **SVM: Support Vector Machine**
+  **ANN: Artificial neural network**
 
-# Complete this project:
+## Complete this project:
 *Write the codes that have not been implemented:*
   - rescale_date (….)
   - removeInvalidData (…..)
